@@ -1,0 +1,43 @@
+﻿@model BasketProcess
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Sepetiniz</h1>
+@if (Model.BasketItems.Count == 0)
+{
+    <div class="alert alert-danger">
+        Sepetinizde kitap yok!
+    </div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Kitap Adı</th>
+                <th>Fiyatı</th>
+                <th>Adet</th>
+                <th>Ara Toplam</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var courseItem in Model.BasketItems)
+            {
+                <tr>
+                    <td>@courseItem.Book.Title</td>
+                    <td>@courseItem.Book.Price</td>
+                    <td>@courseItem.Quantity</td>
+                    <td>@(courseItem.Quantity * courseItem.Book.Price)</td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="4">Toplam: @Model.TotalBooksPrice()</td>
+            </tr>
+        </tfoot>
+    </table>
+}
+
+

@@ -1,0 +1,57 @@
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Services.deps.json
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Services.dll
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Services.pdb
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.DataTransferObjects.dll
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Entities.dll
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Infrastructure.dll
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Infrastructure.pdb
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.DataTransferObjects.pdb
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Entities.pdb
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.csproj.AssemblyReference.cache
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.AssemblyInfoInputs.cache
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.AssemblyInfo.cs
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.csproj.CoreCompileInputs.cache
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.csproj.CopyComplete
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.dll
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\refint\BookStore.Services.dll
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.pdb
+C:\GitHub\TurkcellGelecegiYazanlar\Asp.Net_MVC Homework\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\ref\BookStore.Services.dll
+C:\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Services.deps.json
+C:\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Services.dll
+C:\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Services.pdb
+C:\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.DataTransferObjects.dll
+C:\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Entities.dll
+C:\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Infrastructure.dll
+C:\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Infrastructure.pdb
+C:\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.DataTransferObjects.pdb
+C:\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Entities.pdb
+C:\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.csproj.AssemblyReference.cache
+C:\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.AssemblyInfoInputs.cache
+C:\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.AssemblyInfo.cs
+C:\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.csproj.CoreCompileInputs.cache
+C:\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.csproj.CopyComplete
+C:\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.dll
+C:\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\refint\BookStore.Services.dll
+C:\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.pdb
+C:\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\ref\BookStore.Services.dll
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Services.deps.json
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Services.dll
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Services.pdb
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.DataTransferObjects.dll
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Entities.dll
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Infrastructure.dll
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Infrastructure.pdb
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.DataTransferObjects.pdb
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\bin\Debug\net7.0\BookStore.Entities.pdb
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.csproj.AssemblyReference.cache
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.AssemblyInfoInputs.cache
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.AssemblyInfo.cs
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.csproj.CoreCompileInputs.cache
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.csproj.CopyComplete
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.dll
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\refint\BookStore.Services.dll
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\BookStore.Services.pdb
+C:\GitHub\TurkcellGelecegiYazanlar\ASP.NET CORE MVC HomeWork\BookStore\src\Application\BookStore.Services\obj\Debug\net7.0\ref\BookStore.Services.dll
